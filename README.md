@@ -1,4 +1,4 @@
-#  SHA-256 Hash Cracker (Wordlist & CSV)
+#  SHA-256 Hash Cracker 
 
 A simple Python-based **SHA-256 hash cracking tool** that attempts to recover plaintext passwords using a wordlist.  
 The script supports **single-hash cracking** (interactive mode) and **bulk cracking from a CSV file**.
@@ -25,3 +25,4 @@ The script supports **single-hash cracking** (interactive mode) and **bulk crack
 Install dependencies:
 ```bash
 pip install colorama
+
