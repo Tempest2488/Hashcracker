@@ -1,6 +1,6 @@
 #  SHA-256 Hash Cracker 
 
-A simple Python-based **SHA-256 hash cracking tool** that attempts to recover plaintext passwords using a wordlist.  
+A simple Python-based **SHA-256 hash cracking tool** that attempts to crack plaintext passwords using a wordlist.  
 The script supports **single-hash cracking** (interactive mode) and **bulk cracking from a CSV file**.
 
 >  This tool is intended for **educational and ethical security research only**.
@@ -25,4 +25,5 @@ The script supports **single-hash cracking** (interactive mode) and **bulk crack
 Install dependencies:
 ```bash
 pip install colorama
+
 
